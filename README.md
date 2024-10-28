@@ -1,0 +1,5 @@
+Part 1: Data Restructuring and Cleaning for Housing Analysis
+Description: This phase focuses on cleaning and reshaping housing data using R, where datasets from the Austin MLS and construction permits were combined. The cleaning process included filtering for residential and commercial permits, categorizing permit importance, and calculating distances from listings to issued permits. The final output is a structured data frame ready for modeling, containing key metrics that link property listings with relevant construction activities.
+
+Part 2: Predictive Modeling for Housing Prices
+Description: Utilizing Python, this phase implements predictive modeling techniques to forecast housing prices based on the cleaned dataset from Part 1. The model integrates various features derived from MLS data and construction permits, applying machine learning algorithms to uncover patterns and relationships that influence property values. This analysis aims to provide insights for stakeholders in the real estate market, enhancing decision-making with data-driven predictions.
